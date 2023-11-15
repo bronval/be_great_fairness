@@ -1,0 +1,7 @@
+
+dossier principal: be_great
+construction des strings donnés au LLM: great_dataset.py dans fonction _getitem
+
+
+
+
