@@ -8,3 +8,17 @@ __pycache__
 
 examples/iris*
 examples/trainer_*
+
+/venv
+submit.sh
+setup.sh
+out.txt
+trainer_*
+
+*.csv
+
+adult*/
+heloc/
+housing*/
+rule*/
+sick/
